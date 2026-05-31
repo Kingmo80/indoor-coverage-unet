@@ -141,10 +141,7 @@ If you use this work, please cite:
 
 @article{moyambo2025indoor,
   title   = {Machine Learning for Indoor Cellular Coverage Prediction Using Ray-Tracing Simulation},
-  author  = {Moyambo, Zack and Thron, Christopher},
-  journal = {Journal of Machine Learning Research (submitted)},
-  year    = {2025}
-}
+  author  = {Moyambo, Zack and Thron, Christopher}
 
 ---
 
